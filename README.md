@@ -49,12 +49,6 @@ The project also includes a simple admin dashboard for managing order progress.
 ![Menu](screenshots/menu.png)
 
 ---
-
-### Cart
-![Cart](screenshots/cart.png)
-
----
-
 ### Order Tracking
 ![Tracking](screenshots/tracking.png)
 
