@@ -36,61 +36,31 @@ The project also includes a simple admin dashboard for managing order progress.
 ## Screenshots
 
 ### Welcome Screen
-
-```md
-![Welcome](screenshots/welcome.png)
-```
-
 ![Welcome](screenshots/welcome.png)
 
 ---
 
 ### Dashboard
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
 ![Dashboard](screenshots/dashboard.png)
 
 ---
 
 ### Menu
-
-```md
-![Menu](screenshots/menu.png)
-```
-
 ![Menu](screenshots/menu.png)
 
 ---
 
 ### Cart
-
-```md
-![Cart](screenshots/cart.png)
-```
-
 ![Cart](screenshots/cart.png)
 
 ---
 
 ### Order Tracking
-
-```md
-![Tracking](screenshots/tracking.png)
-```
-
 ![Tracking](screenshots/tracking.png)
 
 ---
 
 ### Admin Dashboard
-
-```md
-![Admin](screenshots/admin.png)
-```
-
 ![Admin](screenshots/admin.png)
 
 ---
